@@ -16,72 +16,83 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Nathier Moerat**
+- **Date:10/11/24**
+- **Current Role/Position:Student/part-time worker**
+- **Field of Interest:Aerobic tricks, Sports,Music**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Current skills:
+
+    Basic software development
+    Problem-solving
+    Quick-thinker
+  
+    - Skills to develop or improve:
+
+    Time-management
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
+    - Key interests related to your career.
+
+    Software development
+    Problem-solving skills
+    Flexibility
+
     - What values are important to you in a work environment?
+    Transparency
+    Honesty
+    Hard-work
+    Friendliness
+    Well-organised
+
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - App development
+    -Web development
+
+    - I am interested in creating a life-changing app once my skills are up to par.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - This alligns pefectly with what i am studying as I will learn how to create apps/software,
+    This skill requires me to develop myself personally regarding attribtues such as problem-solving
+    or time management
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    -I would like to finish my software developent course and specialize further into Python.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Onc I have a certificate and the necessary skills I want to apply for an internship at Amazon.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - To achieve my short term goal I will have to give up a lot of my time and energy as it is not an easy
+    course, but it will all be worth it.
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - To achieve my long term goal I will have to pass al my modules and obtain a crtificate in software development.
+    I would then need to enquire with Amazon for any open internship roles.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - The only challenge in the way of my goals is myself. If I dont work hard enough to learn the skills and knowledge
+    of a software developer, I will run into a hard time with my goals.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
-
+    - Codespace is a good opportunity to get certificate under my name, aftr that when I do my internship at Amazon
+    it could potentially open some big doors for me.
 
